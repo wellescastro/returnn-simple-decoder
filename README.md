@@ -15,5 +15,4 @@ Para realizar a decodificação de uma imagem qualquer, são necessários dois p
 
 2. Executar um script (single-image-decoder.py) para se conectar ao servidor e realizar a transcrição do texto.
 	
-	
-	É necessário editar a variável img_path com o caminho completo da imagem a ser reconhecida
+	Obs.: É necessário editar a variável img_path com o caminho completo da imagem a ser reconhecida
