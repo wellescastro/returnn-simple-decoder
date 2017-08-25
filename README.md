@@ -2,7 +2,7 @@
 Repositório destinado a publicação de decodificadores de imagens para o framework RETURNN.
 
 
-#### Decodificando uma dada imagem
+#### Decodificando uma única imagem
 
 Para realizar a decodificação de uma imagem qualquer, são necessários dois passos:
 
